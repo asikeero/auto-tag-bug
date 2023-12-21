@@ -1,0 +1,4 @@
+{
+  "author": "autoversion <auto@version>",
+  "plugins": ["git-tag"],
+}
